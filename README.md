@@ -12,6 +12,7 @@ However, binary classification trained on this division shows low results and is
 The system suggested as the outcome of my work employs the user statistics’ prediction for new texts and a rule-based comment-focused algorithm for the published texts. 
 As a result, texts that the system identifies as “bad” are reported to the Hyperskill content team for improvement.
 
+_____________
 
 The repository contains Jupiter Notebooks with code implementing various steps of my work. In general, they can be groupsed into four broad parts:
 
